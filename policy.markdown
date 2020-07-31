@@ -11,8 +11,7 @@ This privacy notice discloses the privacy practices for n0hotapps.com and the mo
   -  How you can correct any inaccuracies in the information.
 
 
-**Information Collection, Use, and Sharing**
-
+**Information Collection, Use, and Sharing**  
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. support for an app.
@@ -20,13 +19,11 @@ We will use your information to respond to you, regarding the reason you contact
 If you have contacted us in the past, we may contact you via email in the future to tell you about changes to this privacy policy. We do not send out any unsolicited promotional email.
 
 
-**Mobile Apps**
-
+**Mobile Apps**  
 Some N0HOT Studio mobile apps need location data for the embedded features. The location data is only used in the app. It is never transmitted to any other device or collection point.  
 
 
-**Your Access to and Control Over Information**
-
+**Your Access to and Control Over Information**  
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:
 
   - See what data we have about you, if any.
@@ -35,8 +32,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
   - Express any concern you have about our use of your data.
 
 
-**Security**
-
+**Security**  
 We take precautions to protect your information. If you have contacted us, we may have your name, email address and Amateur Radio Callsign. Your information is protected both online and offline.
 
 Wherever we collect sensitive information (such as email address), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.
