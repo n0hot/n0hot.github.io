@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Notice
+title: Policy
 permalink: /policy/
 ---
 This privacy notice discloses the privacy practices for n0hotapps.com and the mobile apps published by N0HOT Studio. This privacy notice applies solely to information collected by this website and the mobile apps. It will notify you of the following:
