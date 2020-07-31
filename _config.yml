@@ -34,9 +34,9 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.markdown
   - policy.markdown
   - portfolio.markdown
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
