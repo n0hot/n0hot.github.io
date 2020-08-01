@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Policy
+title: "Privacy Policy"
 permalink: /policy/
 ---
 This privacy notice discloses the privacy practices for n0hotapps.com and the mobile apps published by N0HOT Studio. This privacy notice applies solely to information collected by this website and the mobile apps. It will notify you of the following:
@@ -40,4 +40,4 @@ Wherever we collect sensitive information (such as email address), that informat
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via the email address
-at the bottom of this page. 
+at the bottom of this page.
