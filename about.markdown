@@ -17,3 +17,5 @@ Displays the currently broadcasting beacon on a map of the World.
 Proudly display your amateur radio callsign on the iPhone/iPad lock screen.
 
 73, Scott
+<br><br>
+<img src="/assets/img/n0hot.png" alt="n0hot" width="150" height="137" class="center">  
