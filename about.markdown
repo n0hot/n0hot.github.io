@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-
-
+<div style="text-align: justify">
 **NØHOT Studio** strives to create the most useful & fun apps on the planet. As a licensed radio amateur for over 25 years, my apps reflect the intrigue, enjoyment and public service inherent in being a ham.
 
 **Morse Mail**   
@@ -18,3 +16,4 @@ Displays the currently broadcasting beacon on a map of the World.
 Proudly display your amateur radio callsign on the iPhone/iPad lock screen.
 
 73, Scott
+</div>
