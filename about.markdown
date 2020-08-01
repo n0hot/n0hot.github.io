@@ -3,17 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div style="text-align: justify">
-**NØHOT Studio** strives to create the most useful & fun apps on the planet. As a licensed radio amateur for over 25 years, my apps reflect the intrigue, enjoyment and public service inherent in being a ham.
+**NØHOT Studio**
+<p style="text-align: justify"> strives to create the most useful & fun apps on the planet. As a licensed radio amateur for over 25 years, my apps reflect the intrigue, enjoyment and public service inherent in being a ham. </p>
 
 **Morse Mail**   
-Morse Code is not only a long-time ham tradition, it's a radio operator's toolkit that transcends geographical borders for world-wide communication.
+<p style="text-align: justify"> Morse Code is not only a long-time ham tradition, it's a radio operator's toolkit that transcends geographical borders for world-wide communication. </p>
 
-**HF Beacons**   
+**HF Beacons**  
 Displays the currently broadcasting beacon on a map of the World.
 
 **Callsign Wallpaper**   
 Proudly display your amateur radio callsign on the iPhone/iPad lock screen.
 
 73, Scott
-</div>
+</p>
