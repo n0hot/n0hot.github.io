@@ -18,4 +18,6 @@ Proudly display your amateur radio callsign on the iPhone/iPad lock screen.
 
 73, Scott
 <br><br>
-<img src="/assets/img/n0hot.png" alt="n0hot" width="150" height="137" class="center">  
+<div style="text-align: center">
+<img src="/my_assets/img/n0hot.png" alt="n0hot" width="150" height="137" align="center">
+</div>
