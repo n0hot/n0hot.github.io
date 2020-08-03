@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HF Beacons - 6 Band Beacon display"
+title:  "HF Beacons - 5 Band Beacon display"
 date:   2020-07-31 08:00:18 -0500
 categories: jekyll update
 author: "Scott J Gottfried"
