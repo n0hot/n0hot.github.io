@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Portfolio
-permalink: /portfolio/
+layout: post
+title:  "Morse Mail - Encode text to CW Audio for EMail or SMS"
+date:   2020-08-03 08:48:18 -0500
+categories: jekyll update
+author: "Scott J Gottfried"
 ---
 <div style="text-align: center">
 <img src="/assets/img/mm512.png" alt="n0hot" width="150" height="150" align="center">
@@ -19,17 +21,5 @@ Supported speed range is 5 words per minute (WPM) to 30 words per minute.
 The frequency (tone) range is 400 Hz to 800 Hz.
 
 Practice! Have fun!
-
--------------------------------------------
-<br>
-<div style="text-align: center">
-<img src="/assets/img/HFBeacons512.png" alt="n0hot" width="150" height="150" align="center">
-</div><br>
-
-**HF Beacons**   
-Displays the currently broadcasting beacon on a map of the World.
-
-
-
 
 -------------------------------------------
