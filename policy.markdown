@@ -39,4 +39,4 @@ We take precautions to protect your information. If you have contacted us, we ma
 
 <p style="text-align: justify">While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.</p>
 
-<p style="text-align: justify">If you feel that we are not abiding by this privacy policy, you should contact us immediately via the email address at the bottom of this page.</p>
+<p style="text-align: justify"><b>If you feel that we are not abiding by this privacy policy, you should contact us immediately via the email address at the bottom of this page.</b></p>
