@@ -28,7 +28,7 @@ url: "https://n0hot.studio" # the base hostname & protocol for your site, e.g. h
 twitter_username: n0hot
 github_username:  n0hot
 
-# Build settings
+# Build settings (add menu items in header_pages)
 theme: minima
 plugins:
   - jekyll-feed
