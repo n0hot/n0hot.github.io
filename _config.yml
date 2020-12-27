@@ -35,6 +35,8 @@ plugins:
 
 header_pages:
   - portfolio.markdown
+  - qsl.markdown
+  - spacer.markdown
   - policy.markdown
   - about.markdown
 
