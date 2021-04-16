@@ -23,4 +23,5 @@ The frequency (tone) range is 400 Hz to 800 Hz.
 Practice! Have fun!
 
 -------------------------------------------
+<br>
 <a href="https://n0hot.studio/MorseMail-Manual/">User Manual</a>
