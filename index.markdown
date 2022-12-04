@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<div style="visibility: hidden; height: 100px;">
+<div style="visibility: hidden; height: 25px;">
 <a rel="me" href="https://mastodon.radio/@n0hot">Mastodon</a>
 </div>
