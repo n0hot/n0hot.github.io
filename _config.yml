@@ -25,9 +25,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   radio operators.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://n0hot.studio" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: n0hot
 github_username:  n0hot
 
+# Mastodon instances
+mastodon:
+- username: n0hot
+  instance: mastodon.radio
+  
 # Build settings (add menu items in header_pages)
 theme: minima
 plugins:
