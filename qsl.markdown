@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QSOs-QSLs
+title: QSLs
 permalink: /qsls/
 ---
 -------------------------------------------
