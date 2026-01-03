@@ -18,7 +18,7 @@ Amateur Radio Elmers: Use Morse Mail to send practice text to your students!
 
 Supported speed range is 5 words per minute (WPM) to 30 words per minute.
 
-The frequency (tone) range is 400 Hz to 800 Hz.
+The frequency (tone) range is 400 Hz to 1200 Hz.
 
 Practice! Have fun!
 
