@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Morse Mail - Encode text to CW Audio for EMail or SMS"
-date:   2020-08-03 08:48:18 -0500
+date:   2026-01-03 08:48:18 -0500
 categories: jekyll update
 author: "Scott J Gottfried"
 ---
@@ -18,10 +18,10 @@ Amateur Radio Elmers: Use Morse Mail to send practice text to your students!
 
 Supported speed range is 5 words per minute (WPM) to 30 words per minute.
 
-The frequency (tone) range is 400 Hz to 800 Hz.
+The frequency (tone) range is 400 Hz to 1200 Hz.
 
 Practice! Have fun!
 
 -------------------------------------------
 <br>
-<a href="https://n0hot.studio/MorseMail-Manual/">User Manual</a>
+<a href="https://n0hotstudio.com/MorseMail-Manual/">User Manual</a>
