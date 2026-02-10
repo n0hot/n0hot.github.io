@@ -8,7 +8,7 @@ permalink: /policy/
 <p style="text-align: justify"><b>Information Collection, Use, and Sharing</b><br>
 <b>We do not collect, use or share any information about you.</b> This website is hosted on Github Pages. We do not use any collection or analytics on Github to retain information about you. Github may collect information about you such as your IP address. Please see the Github.com privacy policy to understand what data they may collect. 
 
-The mobile apps created by N0HOT Studio do not collect any information about about you. The apps are distributed through the App Store so Apple may collect some information about you while using the store. Please see Apple's privacy notice to understand what data they may collect.</p>
+<p>The mobile apps created by N0HOT Studio do not collect any information about about you. The apps are distributed through the App Store so Apple may collect some information about you while using the store. Please see Apple's privacy notice to understand what data they may collect.</p>
 
 <p style="text-align: justify">We will use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization. We do not send out any unsolicited promotional email.</p>
 
