@@ -10,7 +10,7 @@ permalink: /policy/
 
 The mobile apps created by N0HOT Studio do not collect any information about about you. The apps are distributed through the App Store so Apple may collect some information about you while using the store. Please see Apple's privacy notice to understand what data they may collect.</p>
 
-<p style="text-align: justify">We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization. We do not send out any unsolicited promotional email.</p>
+<p style="text-align: justify">We will use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party outside of our organization. We do not send out any unsolicited promotional email.</p>
 
 <p style="text-align: justify"><b>Mobile Apps</b><br>
 Some N0HOT Studio mobile apps need location data for the embedded features. The location data is only used in the app. It is never transmitted to any other device or collection point.</p>
